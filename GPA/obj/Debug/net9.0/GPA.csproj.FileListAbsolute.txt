@@ -1,0 +1,15 @@
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\bin\Debug\net9.0\GPA.exe
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\bin\Debug\net9.0\GPA.deps.json
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\bin\Debug\net9.0\GPA.runtimeconfig.json
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\bin\Debug\net9.0\GPA.dll
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\bin\Debug\net9.0\GPA.pdb
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.AssemblyInfoInputs.cache
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.AssemblyInfo.cs
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.csproj.CoreCompileInputs.cache
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.sourcelink.json
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.dll
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\refint\GPA.dll
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.pdb
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\GPA.genruntimeconfig.cache
+C:\Users\dchel\Documents\RevatureProjects\Daniel-Helbig\GPA\obj\Debug\net9.0\ref\GPA.dll
